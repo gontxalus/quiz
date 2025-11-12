@@ -12,6 +12,8 @@ function App({ questions }: AppProps) {
   const [quiz, setQuiz] = useState(-1);
   const [correctAnswers, setCorrectAnswers] = useState(0);
 
+  const cosa = '123';
+
   const goToNextUnsolved = (index: number) => {
     let nextQ = questions[index];
     while (index < questions.length && nextQ.solved) {
@@ -57,7 +59,7 @@ function App({ questions }: AppProps) {
             </div>
           ) : correctAnswers === questions.length ? (
             <div>
-              <h2>Aqui tiene tu codigo makina: 123</h2>
+              <h2>Aqui tiene tu codigo makina: {cosa}</h2>
             </div>
           ) : (
             <div>
