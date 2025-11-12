@@ -1,17 +1,17 @@
 import fs from 'node:fs';
 
-const text = fs.readFileSync('data/preguntas.csv', 'utf8');
+const text = fs.readFileSync('data/preguntas.tsv', 'utf8');
 
 const lines = text.split(/\r?\n/);
 
 const preguntas = { questions: [] };
 
 for (const line of lines) {
-  const columns = line.split(',');
+  const columns = line.split('\t');
 
   preguntas.questions.push({
     question: columns[0],
-    'image-path': 'images/oscar-vagabundo.jpeg',
+    'image-path': `images/${columns[5] ?? 'oscar-troglodita.png'}`,
     'correct-answer': columns[1],
     'incorrect-answer-1': columns[2],
     'incorrect-answer-2': columns[3],

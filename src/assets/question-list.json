@@ -26,7 +26,7 @@
     },
     {
       "question": "En que año proyectaron Kimi no nawa en el zinemaldi",
-      "image-path": "images/kimi-no-na-wa.jpg",
+      "image-path": "images/ruben.png",
       "correct-answer": "2016",
       "incorrect-answer-1": "2019",
       "incorrect-answer-2": "2015",
@@ -58,7 +58,7 @@
     },
     {
       "question": "¿Qué deuda pendiente tiene Oscar desde primero de carrera?",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/kobold.jpg",
       "correct-answer": "Regalarle una skin del LoL a Josu",
       "incorrect-answer-1": "Ir a un café de maids con Rubén",
       "incorrect-answer-2": "Invitar a un café de avellana a Gon",
@@ -66,7 +66,7 @@
     },
     {
       "question": "¿Quién es el héroe nacional de Korea?",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/korea.webp",
       "correct-answer": "Todas las demás",
       "incorrect-answer-1": "Yi Sun-sin",
       "incorrect-answer-2": "Spiderman",
@@ -74,7 +74,7 @@
     },
     {
       "question": "¿Cuál de estas actividades no ha realizado Stone de forma profesional?",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/stone.jpg",
       "correct-answer": "Cantante",
       "incorrect-answer-1": "Militar",
       "incorrect-answer-2": "Peluquero",
@@ -82,7 +82,7 @@
     },
     {
       "question": "¿A qué secta pertence Manuel Graña?",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/",
       "correct-answer": "Rosacruz",
       "incorrect-answer-1": "Masones",
       "incorrect-answer-2": "Cienciólogos",
@@ -90,7 +90,7 @@
     },
     {
       "question": "¿Cuál es el nombre del archivo que casi le cuesta un semestre a Oscar?",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/",
       "correct-answer": "El mejor puto porno",
       "incorrect-answer-1": "Puto proyecto de mierda",
       "incorrect-answer-2": "Mar hija de puta",
@@ -98,7 +98,7 @@
     },
     {
       "question": "¿Cuál es el anime que más ha recomendado Oscar a sus compañeros de carrera?",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/mal.png",
       "correct-answer": "Phantom",
       "incorrect-answer-1": "Evangelion",
       "incorrect-answer-2": "K",
@@ -106,7 +106,7 @@
     },
     {
       "question": "¿Cómo era conocido Oscar por sus compañeros durante la carrera?",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/hate.png",
       "correct-answer": "El hater",
       "incorrect-answer-1": "El guapo",
       "incorrect-answer-2": "El listo",
@@ -114,7 +114,7 @@
     },
     {
       "question": "¿Cuál es el lugar perfecto para una reunión de scrum?",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/oscar-montaditos.png",
       "correct-answer": "Montaditos",
       "incorrect-answer-1": "La hogeitalau",
       "incorrect-answer-2": "Cafetería Pacos's",
@@ -122,7 +122,7 @@
     },
     {
       "question": "¿Coin qué frecuencia se cortaba el pelo Oscar durante la carrera?",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/oskir.png",
       "correct-answer": "Dos veces al año: una por su cumple y otra por navidad",
       "incorrect-answer-1": "Cuanto el flequillo le empezaba a cubrir los ojos",
       "incorrect-answer-2": "Una vez al mes; era conocido por ir siempre arreglado",
@@ -130,15 +130,15 @@
     },
     {
       "question": "¿Cúantos cuadernos utlizaba Oscar durante un semestre?",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/cuaderno.jpg",
       "correct-answer": "Uno para todas las asignaturas; ¿para qué más?",
       "incorrect-answer-1": "Uno por asignatura; el órden ante todo",
-      "incorrect-answer-2": "\"Uno por cada dos asignaturas; una por delante",
-      "incorrect-answer-3": " otra por detrás\""
+      "incorrect-answer-2": "Uno por cada dos asignaturas; una por delante, otra por detrás",
+      "incorrect-answer-3": "Ninguno, tomaba los apuntes mentalmente"
     },
     {
       "question": "¿Que personaje interpretó Óscar en la partida del DS3 que hicimos cosplay del Zelda?",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/zelda.jpg",
       "correct-answer": "Zelda",
       "incorrect-answer-1": "Link",
       "incorrect-answer-2": "Ganondorf",
@@ -146,11 +146,27 @@
     },
     {
       "question": "Que licor habia consumido Oscar cuando se tiro un pedo en la cama de Mikel",
-      "image-path": "images/oscar-vagabundo.jpeg",
+      "image-path": "images/copa.jpg",
       "correct-answer": "Baileys",
       "incorrect-answer-1": "Soju",
       "incorrect-answer-2": "Tequila",
       "incorrect-answer-3": "Vodka"
+    },
+    {
+      "question": "¿Cuál fué el método que Oscar investigó para suicidarse en el viaje a Port Aventura?",
+      "image-path": "images/oscar-floripondio.jpeg",
+      "correct-answer": "Floripondio",
+      "incorrect-answer-1": "Haribos",
+      "incorrect-answer-2": "Pastillas para dormir",
+      "incorrect-answer-3": "Ahorcamiento"
+    },
+    {
+      "question": "¿Cuantos dispositivos había involucrados en el crossplay de MHFU más grande jamás creado?",
+      "image-path": "images/mhfu.jpeg",
+      "correct-answer": "3",
+      "incorrect-answer-1": "4",
+      "incorrect-answer-2": "2",
+      "incorrect-answer-3": "1"
     }
   ]
 }
