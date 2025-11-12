@@ -1,0 +1,15 @@
+.answers {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+button.correct {
+  background-color: #69b879;
+  color: black;
+}
+
+button.incorrect {
+  background-color: #e06c75;
+  color: black;
+}
