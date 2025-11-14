@@ -81,7 +81,7 @@
       "incorrect-answer-3": "Luchador de la UFC"
     },
     {
-      "question": "¿A qué secta pertence Manuel Graña?",
+      "question": "¿A qué secta pertenece Manuel Graña?",
       "image-path": "images/iluminati.jpg",
       "correct-answer": "Rosacruz",
       "incorrect-answer-1": "Masones",
@@ -121,7 +121,7 @@
       "incorrect-answer-3": "Resa"
     },
     {
-      "question": "¿Coin qué frecuencia se cortaba el pelo Oscar durante la carrera?",
+      "question": "¿Con qué frecuencia se cortaba el pelo Oscar durante la carrera?",
       "image-path": "images/oskir.png",
       "correct-answer": "Dos veces al año: una por su cumple y otra por navidad",
       "incorrect-answer-1": "Cuanto el flequillo le empezaba a cubrir los ojos",
@@ -129,10 +129,10 @@
       "incorrect-answer-3": "Nunca, la gente lo confundía con un metalero"
     },
     {
-      "question": "¿Cúantos cuadernos utlizaba Oscar durante un semestre?",
+      "question": "¿Cuántos cuadernos utilizaba Óscar durante un semestre?",
       "image-path": "images/cuaderno.jpg",
       "correct-answer": "Uno para todas las asignaturas; ¿para qué más?",
-      "incorrect-answer-1": "Uno por asignatura; el órden ante todo",
+      "incorrect-answer-1": "Uno por asignatura; el orden ante todo",
       "incorrect-answer-2": "Uno por cada dos asignaturas; una por delante, otra por detrás",
       "incorrect-answer-3": "Ninguno, tomaba los apuntes mentalmente"
     },
@@ -145,7 +145,7 @@
       "incorrect-answer-3": "Navi"
     },
     {
-      "question": "Que licor habia consumido Oscar cuando se tiro un pedo en la cama de Mikel",
+      "question": "Que licor había consumido Oscar cuando se tiro un pedo en la cama de Mikel",
       "image-path": "images/copa.jpg",
       "correct-answer": "Baileys",
       "incorrect-answer-1": "Soju",
